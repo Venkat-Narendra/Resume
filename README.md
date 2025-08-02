@@ -1,6 +1,6 @@
 Hello....
 
-I have attached my resume. Please take a look.
+I have attached my resume(Venkata Narendra Reddy Yaramala.pdf). Please take a look.
 
 I am a trained Physical Design Engineer with hands-on experience gained through a six-month training program at RV Skills Design Center. My focus lies in the full ASIC Physical Design flow, with practical knowledge in floorplanning, placement, clock tree synthesis (CTS), routing, and static timing analysis (STA), and I am familiar with industry-standard EDA tools such as Synopsys ICC2 and PrimeTime.
 
